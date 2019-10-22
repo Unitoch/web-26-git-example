@@ -1,2 +1,4 @@
 This is an example for my second git commit.
 
+This is my crazy new feature that I don't want to put on master.
+
